@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\My projeck chess\Project6\Project6\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project6.vcxproj -> D:\My projeck chess\Project6\x64\Debug\Project6.exe
