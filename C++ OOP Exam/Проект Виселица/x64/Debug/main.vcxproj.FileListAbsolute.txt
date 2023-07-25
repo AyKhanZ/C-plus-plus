@@ -1,0 +1,6 @@
+C:\Users\HP\AppData\Local\Temp\Rar$DRa572.16929\main\x64\Debug\main.exe
+C:\Users\Zejn_ge96\Desktop\main\x64\Debug\main.exe
+C:\Users\HP\Desktop\main\x64\Debug\main.exe
+C:\Users\HP\Desktop\main_exam\main\x64\Debug\main.exe
+C:\Users\HP\Desktop\step\main_exam\main\x64\Debug\main.exe
+C:\Users\HP\Desktop\Git\GitHub public\C++ OOP projects\C++ OOP Exam\Проект Виселица\x64\Debug\main.exe

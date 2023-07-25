@@ -1,0 +1,11 @@
+﻿  active_Class.cpp
+C:\Users\HP\Desktop\Git\GitHub public\C++ OOP projects\C++ OOP Exam\Проект Виселица\active_Class.cpp(8,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  interface_hangman_Class.cpp
+  interface_keyboard_Class.cpp
+  main.cpp
+  menu_Class.cpp
+  topic_Class.cpp
+C:\Users\HP\Desktop\Git\GitHub public\C++ OOP projects\C++ OOP Exam\Проект Виселица\topic_Class.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\Desktop\Git\GitHub public\C++ OOP projects\C++ OOP Exam\Проект Виселица\topic_Class.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  main.vcxproj -> C:\Users\HP\Desktop\Git\GitHub public\C++ OOP projects\C++ OOP Exam\Проект Виселица\x64\Debug\main.exe
