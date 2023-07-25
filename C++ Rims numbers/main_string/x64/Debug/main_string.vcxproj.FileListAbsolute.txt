@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Знакомство с ООП С++.Первая тема\Д.З\main_string\x64\Debug\main_string.exe
+C:\Users\HP\Desktop\main_string\x64\Debug\main_string.exe

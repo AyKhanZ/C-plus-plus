@@ -1,0 +1,17 @@
+﻿  Class_String.cpp
+C:\Users\HP\Desktop\main_string\Class_String.cpp(18,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(21,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(29,11): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(67,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(67,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(71,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(71,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(75,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(75,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(79,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(79,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(92,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(94,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(97,56): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\Desktop\main_string\Class_String.cpp(133,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main_string.vcxproj -> C:\Users\HP\Desktop\main_string\x64\Debug\main_string.exe
